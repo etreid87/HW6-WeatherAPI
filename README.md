@@ -4,4 +4,4 @@ Homework 6 deals with the use of API's.  The student is asked to use the OpenWea
 
 Website: https://etreid87.github.io/HW6-WeatherAPI/
 
-![Image of API](https://github.com/etreid87/HW6_WeatherAPI/blob/master/Screenshot%20(4).png)
+![Image of API](https://github.com/etreid87/HW6-WeatherAPI/blob/master/Screenshot%20(4).png)
